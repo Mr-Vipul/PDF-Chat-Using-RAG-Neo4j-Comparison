@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+faiss-cpu
+py2neo
+pypdf2
+numpy
+pdfplumber
+neo4j
